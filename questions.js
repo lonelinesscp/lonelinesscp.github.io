@@ -56,7 +56,7 @@ questions = [
 "effect": { "econ": 0, "dipl": 0, "govt": 10, "scty": 0 }},
     
 { "question": "I frequently, or even constantly, feel stress."
-"effect": { "econ": 0, "dipl": 0, "govt": 10, "scty": 0 }},
+"effect": { "econ": 0, "dipl": 0, "govt": 10, "scty": 0 }}
     
 ];
 
