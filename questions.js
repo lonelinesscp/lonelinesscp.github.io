@@ -46,17 +46,18 @@ questions = [
 { "question": "I often feel aches and pains that are caused by my mental health.",
 "effect": { "econ": 0, "dipl": 0, "govt": 10, "scty": 0 }},
     
-{ "question": "I hear voices in my head that isn't my own."
+{ "question": "I hear voices in my head that isn't my own.",
 "effect": { "econ": 0, "dipl": 0, "govt": 10, "scty": 0 }},
     
-{ "question": "I feel hopeless in life."
+{ "question": "I feel hopeless in life.",
 "effect": { "econ": 0, "dipl": 0, "govt": 10, "scty": 0 }},
     
-{ "question": "I sometimes wish I had never existed."
+{ "question": "I sometimes wish I had never existed.",
 "effect": { "econ": 0, "dipl": 0, "govt": 10, "scty": 0 }},
     
-{ "question": "I frequently, or even constantly, feel stress."
+{ "question": "I frequently, or even constantly, feel stress.",
 "effect": { "econ": 0, "dipl": 0, "govt": 10, "scty": 0 }}
+    
     
 ];
 
