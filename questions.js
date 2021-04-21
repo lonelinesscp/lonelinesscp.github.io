@@ -25,15 +25,24 @@ questions = [
     
 { "question": "I feel seperated from other people.",
 "effect": { "econ": 0, "dipl": 10, "govt": 0, "scty": 0 }},
+    
+{ "question": "No one really knows me well.",
+"effect": { "econ": 0, "dipl": 10, "govt": 0, "scty": 0 }},
 
-{ "question": "I feel isolated from other people, even in areas with a lot of people.",
+{ "question": "I lack companionship.",
 "effect": { "econ": 0, "dipl": 10, "govt": 0, "scty": 0 }},
    
 { "question": "I have no friends.",
 "effect": { "econ": 0, "dipl": 10, "govt": 0, "scty": 0 }},
     
 { "question": "My economic situation is very different from most people around me.",
+"effect": { "econ": 0, "dipl": 10, "govt": 0, "scty": 0 }},    
+    
+{ "question": "There is always someone I can talk to.",
 "effect": { "econ": 0, "dipl": 10, "govt": 0, "scty": 0 }},
+    
+{ "question": "There are enough people that I trust competely.",
+"effect": { "econ": 0, "dipl": -10, "govt": 0, "scty": 0 }},
     
 //
     
