@@ -142,9 +142,9 @@ div.bar {
     height: 36pt;
     line-height: 36pt;
     padding: 8pt;
-    margin-top: 4pt;
-    margin-bottom: 4pt;
-    border-width: 4px;
+    margin-top: 3pt;
+    margin-bottom: 3pt;
+    border-width: 3px;
     border-right-width: 1px;
     border-top-style: solid;
     border-bottom-style: solid;
@@ -157,7 +157,7 @@ div.text-wrapper {
     font-family: 'Montserrat', sans-serif;
     font-size: 36pt;
     line-height: 36pt;
-    color: #eeeeee;
+    color: #ffffff;
     display: inline-block;
 }
 div.equality {
