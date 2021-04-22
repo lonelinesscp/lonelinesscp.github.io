@@ -20,6 +20,12 @@ questions = [
     
 { "question": "I get energy from spending time with myself.",
 "effect": { "econ": 10, "dipl": 0, "govt": 0, "scty": 0 }},
+    
+{ "question": "I get nervous when I talk to anyone.",
+"effect": { "econ": 10, "dipl": 0, "govt": 0, "scty": 0 }},
+    
+{ "question": "I dislike any social interaction.",
+"effect": { "econ": 10, "dipl": 0, "govt": 0, "scty": 0 }},
 
 //
     
