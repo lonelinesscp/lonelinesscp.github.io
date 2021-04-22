@@ -141,11 +141,10 @@ stats"></a></div></noscript>
     document.getElementById("diplomatic-label").innerHTML = setLabel(peace, diplArray)
     document.getElementById("state-label").innerHTML = setLabel(liberty, govtArray)
     document.getElementById("society-label").innerHTML = setLabel(progress, sctyArray)
-
+    
     ideology = ""
     ideodesc = ""
     ideodist = Infinity
-	
     for (var i = 0; i < ideologies.length; i++) {
         dist = 0
         dist += Math.pow(Math.abs(ideologies[i].stats.econ - equality), 2)
