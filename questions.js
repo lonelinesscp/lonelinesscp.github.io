@@ -34,9 +34,6 @@ questions = [
     
 { "question": "No one really knows me well.",
 "effect": { "econ": 0, "dipl": 10, "govt": 0, "scty": 0 }},
-
-{ "question": "I lack companionship.",
-"effect": { "econ": 0, "dipl": 10, "govt": 0, "scty": 0 }},
    
 { "question": "I have no friends.",
 "effect": { "econ": 0, "dipl": 10, "govt": 0, "scty": 0 }},
