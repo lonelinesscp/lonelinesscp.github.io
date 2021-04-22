@@ -13,6 +13,6 @@ ideologies = [
     
     { "name": "The Seperated",
     "desc": "You might be seperated from other people, and might feel lonely in daily life. If you frequently feel lonely, you might want to reach out to other people.",
-    "stats": { "econ": 30, "dipl": 100, "govt": 80, "scty": 50 }},
+    "stats": { "econ": 30, "dipl": 100, "govt": 80, "scty": 50 }}
 
 ];
